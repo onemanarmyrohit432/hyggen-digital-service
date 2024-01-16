@@ -40,7 +40,7 @@ export function Home() {
                 <div className="ms-[24rem] flex justify-between flex-wrap w-[50%] m-auto mt-[3rem]">
 
                 </div>
-                <div className="flex ms-14 mt-20 justify-between">
+                <div className="flex ms-14 mt-20 justify-between flex-wrap">
                     <div className="flex">
                         <img src="./Logo1.png" alt="" width="80px" height="50px" />
                         <div className="ms-3">Published by
